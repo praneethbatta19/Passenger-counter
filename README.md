@@ -23,7 +23,7 @@ responsive user interface.
 -   `index.html` -- Main HTML file\
 -   `index.css` -- Styling and layout\
 -   `index.js` -- Counter logic and DOM manipulation\
--   `station.jpg` -- Background image
+-   `yarn.jpg` -- Background image
 
 ------------------------------------------------------------------------
 
